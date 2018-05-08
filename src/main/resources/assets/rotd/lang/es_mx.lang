@@ -1,0 +1,116 @@
+####Traducido por Xesar_Zk####
+itemGroup.rotd=Realm Of The Dragons
+
+entity.RealmOfTheDragon.amethyst.name=Dragon Amatista
+entity.RealmOfTheDragon.end.name=Dragon del End
+entity.RealmOfTheDragon.garnet.name=Dragon Garnet
+entity.RealmOfTheDragon.jade.name=Dragon Esmeralda
+entity.RealmOfTheDragon.sapphire.name=Dragon Zafiro
+entity.RealmOfTheDragon.name=Dragon del End
+entity.RealmOfTheDragon.nether.name=Dragon del Nether
+entity.RealmOfTheDragon.ruby.name=Dragon Rubi
+entity.RealmOfTheDragon.skeleton.name=Dragon Esqueleto
+entity.RealmOfTheDragon.wither.name=Dragon Wither
+
+commands.dragon.nodragons=There are no dragons nearby
+commands.dragon.canttame=You cannot tame dragons
+
+item.diamond_shears.name=Tijeras de Diamante
+item.structure_spawner.name=Generador de Estructura (Debug)
+tile.rotd:pileofsticks.name=Bloque de Nido
+
+item.dragonEgg.name=Huevo de %s
+
+item.ender_dragonscales.name=Escamas de Dragon del End
+item.ender_dragon_pickaxe.name=Pico de Dragon del End
+item.ender_dragon_axe.name=Hacha de Dragon del End
+item.ender_dragon_shovel.name=Pala de Dragon del End
+item.ender_dragon_sword.name=Espada de Dragon del End
+item.ender_dragonscale_cap.name=Casco de Dragon del End
+item.ender_dragonscale_chestplate.name=Pechera de Dragon del End
+item.ender_dragonscale_leggings.name=Pantalones de Dragon del End
+item.ender_dragonscale_boots.name=Botas de Dragon del End
+
+item.nether_dragonscales.name=Escamas de Dragon del Nether
+item.nether_dragon_pickaxe.name=Pico de Dragon del Nether
+item.nether_dragon_axe.name=Hacha de Dragon del Nether
+item.nether_dragon_shovel.name=Pala de Dragon del Nether
+item.nether_dragon_sword.name=Espada de Dragon del Nether
+item.nether_dragonscale_cap.name=Casco de Dragon del Nether
+item.nether_dragonscale_chestplate.name=Pechera de Dragon del Nether
+item.nether_dragonscale_leggings.name=Pantalones de Dragon del Nether
+item.nether_dragonscale_boots.name=Botas de Dragon del Nether
+
+item.jade_dragonscales.name=Escamas de Dragon Esmeralda
+item.jade_dragon_pickaxe.name=Pico de Dragon Esmeralda
+item.jade_dragon_axe.name=Hacha de Dragon Esmeralda
+item.jade_dragon_shovel.name=Pala de Dragon Esmeralda
+item.jade_dragon_hoe.name=Azada de Dragon Esmeralda
+item.jade_dragon_sword.name=Espada de Dragon Esmeralda
+item.jade_dragonscale_cap.name=Casco de Dragon Esmeralda
+item.jade_dragonscale_chestplate.name=Pechera de Dragon Esmeralda
+item.jade_dragonscale_leggings.name=Pantalones de Dragon Esmeralda
+item.jade_dragonscale_boots.name=Botas de Dragon Esmeralda
+
+item.ruby_dragonscales.name=Escamas de Dragon Rubi
+item.ruby_dragon_pickaxe.name=Pico de Dragon Rubi
+item.ruby_dragon_axe.name=Hacha de Dragon Rubi
+item.ruby_dragon_shovel.name=Pala de Dragon Rubi
+item.ruby_dragon_sword.name=Espada de Dragon Rubi
+item.ruby_dragonscale_cap.name=Casco de Dragon Rubi
+item.ruby_dragonscale_chestplate.name=Pechera de Dragon Rubi
+item.ruby_dragonscale_leggings.name=Pantalones de Dragon Rubi
+item.ruby_dragonscale_boots.name=Botas de Dragon Rubi
+
+item.amethyst_dragonscales.name=Escamas de Dragon Amatista
+item.amethyst_dragon_pickaxe.name=Pico de Dragon Amatista
+item.amethyst_dragon_axe.name=Hacha de Dragon Amatista
+item.amethyst_dragon_shovel.name=Pala de Dragon Amatista
+item.amethyst_dragon_sword.name=Espada de Dragon Amatista
+item.amethyst_dragonscale_cap.name=Casco de Dragon Amatista
+item.amethyst_dragonscale_chestplate.name=Pechera de Dragon Amatista
+item.amethyst_dragonscale_leggings.name=Pantalones de Dragon Amatista
+item.amethyst_dragonscale_boots.name=Botas de Dragon Amatista
+
+item.garnet_dragonscales.name=Escamas de Dragon Garnet
+item.garnet_dragon_pickaxe.name=Pico de Dragon Garnet
+item.garnet_dragon_axe.name=Hacha de Dragon Garnet
+item.garnet_dragon_shovel.name=Pala de Dragon Garnet
+item.garnet_dragon_sword.name=Espada de Dragon Garnet
+item.garnet_dragonscale_cap.name=Casco de Dragon Garnet
+item.garnet_dragonscale_chestplate.name=Pechera de Dragon Garnet
+item.garnet_dragonscale_leggings.name=Pantalones de Dragon Garnet
+item.garnet_dragonscale_boots.name=Botas de Dragon Garnet
+
+item.sapphire_dragonscales.name=Escamas de Dragon Zafiro
+item.sapphire_dragon_pickaxe.name=Pico de Dragon Zafiro
+item.sapphire_dragon_axe.name=Hacha de Dragon Zafiro
+item.sapphire_dragon_shovel.name=Pala de Dragon Zafiro
+item.sapphire_dragon_sword.name=Espada de Dragon Zafiro
+item.sapphire_dragonscale_cap.name=Casco de Dragon Zafiro
+item.sapphire_dragonscale_chestplate.name=Pechera de Dragon Zafiro
+item.sapphire_dragonscale_leggings.name=Pantalones de Dragon Zafiro
+item.sapphire_dragonscale_boots.name=Botas de Dragon Zafiro
+
+key.categories.RealmOfTheDragon = Controles del Dragon
+key.dragon.flyUp=Ascender
+key.dragon.flyDown=Descender
+
+entity.RealmOfTheDragons.RealmOfTheDragon.amethyst.name=Dragon Amatista
+entity.RealmOfTheDragons.RealmOfTheDragon.end.name=Dragon del End
+entity.RealmOfTheDragons.RealmOfTheDragon.garnet.name=Dragon Garnet
+entity.RealmOfTheDragons.RealmOfTheDragon.jade.name=Dragon Esmeralda
+entity.RealmOfTheDragons.RealmOfTheDragon.sapphire.name=Dragon Zafiro
+entity.RealmOfTheDragons.RealmOfTheDragon.name=Dragon del End
+entity.RealmOfTheDragons.RealmOfTheDragon.nether.name=Dragon del Nether
+entity.RealmOfTheDragons.RealmOfTheDragon.ruby.name=Dragon Rubi
+entity.RealmOfTheDragons.RealmOfTheDragon.skeleton.name=Dragon Esqueleto
+entity.RealmOfTheDragons.RealmOfTheDragon.wither.name=Dragon Wither
+
+item.dragonarmor_diamond.name=Armadura de Diamante de Dragon
+item.dragonarmor_iron.name=Armadura de Hierro de Dragon
+item.dragonarmor_gold.name=Armadura de Oro de Dragon
+
+entity.dragon.tooYounng=El dragon es muy joven, deja que crezca.
+
+
